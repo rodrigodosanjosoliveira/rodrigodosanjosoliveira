@@ -8,6 +8,7 @@
 ----
 ### Language and Tools:
 
+<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR8j939O1D_T0vpNC61r6ndjVdx5PlAMdnkgQ&usqp=CAU"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
