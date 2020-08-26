@@ -2,7 +2,7 @@
 ----
 
 - 🔭 I’m currently working on **Overdraft/Money Movements Squad @ Btg Pactual**
-- 🌱 I’m currently learning **F# and Reverse Proxies in ASP.NET Core**
+- 🌱 I’m currently learning **F# and Functional Programming**
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rodrigodosanjosoliveira/)
 
 ----
