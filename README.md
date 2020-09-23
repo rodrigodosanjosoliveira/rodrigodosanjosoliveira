@@ -5,8 +5,6 @@
 - 🌱 I’m currently learning **Dart & Flutter**
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rodrigodosanjosoliveira/)
 
-----
-
 
 ----
 [![Rodrigo's github stats](https://github-readme-stats.vercel.app/api?username=rodrigodosanjosoliveira&hide=stars,contribs&show_icons=true&count_private=true)](https://github.com/rodrigodosanjosoliveira/github-readme-stats)
