@@ -2,7 +2,7 @@
 ----
 
 - 🔭 I’m currently working on **Headless Estoque & Reg. Squad @ Via Varejo**
-- 🌱 I’m currently learning **Dart & Flutter**
+- 🌱 I’m currently learning **Functional Programming**
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rodrigodosanjosoliveira/)
 
 
