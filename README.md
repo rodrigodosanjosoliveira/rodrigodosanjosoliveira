@@ -1,12 +1,12 @@
 ### Hello World! I'm Rodrigo 👋
 ----
 ![Profile views](https://komarev.com/ghpvc/?username=rodrigodosanjosoliveira&style=flat-square)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigodosanjosoliveira/)](https://www.linkedin.com/in/rodrigodosanjosoliveira/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/orodrygw)](https://twitter.com/orodrygw)
 
 - 🔭 I’m currently working on **Icatu Seguros**
 - 🌱 I’m currently learning **Functional Programming**
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rodrigodosanjosoliveira/)
+- 📫 How to reach me: 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigodosanjosoliveira/)](https://www.linkedin.com/in/rodrigodosanjosoliveira/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/orodrygw)](https://twitter.com/orodrygw)
 
 
 ----
