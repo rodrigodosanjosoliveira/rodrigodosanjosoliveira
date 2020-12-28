@@ -1,6 +1,6 @@
 ### Hello World! I'm Rodrigo 👋
 ----
-
+![Profile views](https://komarev.com/ghpvc/?username=rodrigodosanjosoliveira&style=flat-square)
 - 🔭 I’m currently working on **Icatu Seguros**
 - 🌱 I’m currently learning **Functional Programming**
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rodrigodosanjosoliveira/)
