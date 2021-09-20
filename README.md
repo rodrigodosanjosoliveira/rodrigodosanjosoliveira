@@ -3,7 +3,7 @@
 [![](https://vistr.dev/badge?repo=rodrigodosanjosoliveira.rodrigodosanjosoliveira&corners=square)](https://github.com/rodrigodosanjosoliveira/vistr.dev)
 
 - 🔭 I’m currently working on [**Vórtx**](https://vortx.com.br/)
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Javascript**
 - 💬 Ask me about @dotnet, @architecture
 - 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigodosanjosoliveira/)](https://www.linkedin.com/in/rodrigodosanjosoliveira/)
