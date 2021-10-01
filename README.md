@@ -5,16 +5,17 @@
 - 🔭 I’m currently working on [**Vórtx**](https://vortx.com.br/)
 - 🌱 I’m currently learning **Javascript**
 - 💬 Ask me about @dotnet, @architecture
+- 🤔 I’m looking to collaborate on [**Herbs**](https://herbsjs.org/)
 - 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigodosanjosoliveira/)](https://www.linkedin.com/in/rodrigodosanjosoliveira/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/orodrygw)](https://twitter.com/orodrygw)
 
 
 ----
-[![Rodrigo's github stats](https://github-readme-stats.vercel.app/api?username=rodrigodosanjosoliveira&show=contribs&show_icons=true&theme=dracula&count_private=true)](https://github.com/rodrigodosanjosoliveira/github-readme-stats)
+[![Rodrigo's github stats](https://github-readme-stats.vercel.app/api?username=rodrigodosanjosoliveira&show=contribs&show_icons=true&count_private=true)](https://github.com/rodrigodosanjosoliveira/github-readme-stats)
 
 ----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodosanjosoliveira&theme=dracula&layout=compact)](https://github.com/rodrigodosanjosoliveira/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodosanjosoliveira&layout=compact)](https://github.com/rodrigodosanjosoliveira/github-readme-stats)
 
 <!--
 ### Language and Tools:
