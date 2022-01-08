@@ -1,6 +1,7 @@
 ### Hello World! I'm Rodrigo 👋
 ----
 [![](https://vistr.dev/badge?repo=rodrigodosanjosoliveira.rodrigodosanjosoliveira&corners=square)](https://github.com/rodrigodosanjosoliveira/vistr.dev)
+[![wakatime](https://wakatime.com/badge/user/0a5ca1af-18a4-49f8-a87a-7989a8ee88f4.svg)](https://wakatime.com/@0a5ca1af-18a4-49f8-a87a-7989a8ee88f4)
 
 - 🔭 I’m currently working on [**Vórtx**](https://vortx.com.br/)
 - 🌱 I’m currently learning **Javascript**
