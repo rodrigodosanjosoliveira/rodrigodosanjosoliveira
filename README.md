@@ -6,7 +6,6 @@
 <!-- - 🔭 I’m currently working on [**Vórtx**](https://vortx.com.br/) -->
 - 🌱 I’m currently learning **Golang**
 - 💬 Ask me about @dotnet, @architecture
-- 🤔 I’m looking to collaborate on [**Herbs**](https://herbsjs.org/)
 - 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigodosanjosoliveira/)](https://www.linkedin.com/in/rodrigodosanjosoliveira/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/orodrygw)](https://twitter.com/orodrygw)
@@ -32,6 +31,7 @@
 Here are some ideas to get you started:
 
 
+<!-- - 🤔 I’m looking to collaborate on [**Herbs**](https://herbsjs.org/)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
