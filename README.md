@@ -1,4 +1,8 @@
 ### Hello World! I'm Rodrigo 👋
+
+Since 2005 working in the technology area, working in large consultancies and companies of the most varied sizes and segments (Fintechs, Insurance, Music Stream, Banks, Retail, E-commerce, Commercial Automation, etc.). Solid knowledge of design patterns, object-oriented modeling, Microservices architecture.
+Using several technologies: ASP.NET Core, ASP.NET MVC, WCF, C #, VB.NET, Azure AD, NodeJS, Express, Jest, Sequelize, Python, Flask, RabbitMQ, Redis, MongoDB, Angular, Apache Solr, Redis, and Spring. NET. Knowledge in databases PostgreSQL, DB2, SQL SERVER 2005/2008 and Oracle PL / SQL (maintenance and implementation of package, procedures, and functions), ORM NHibernate / Fluent and Entity Framework Core, AWS (DynamoDB, Lambda, Cloudwatch, Cloudformation, SNS, SQS and API Gateway), Docker, Docker Compose, Kubernetes, Rancher.
+
 ----
 [![](https://vistr.dev/badge?repo=rodrigodosanjosoliveira.rodrigodosanjosoliveira&corners=square)](https://github.com/rodrigodosanjosoliveira/vistr.dev)
 [![wakatime](https://wakatime.com/badge/user/0a5ca1af-18a4-49f8-a87a-7989a8ee88f4.svg)](https://wakatime.com/@0a5ca1af-18a4-49f8-a87a-7989a8ee88f4)
