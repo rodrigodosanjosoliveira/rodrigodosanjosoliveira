@@ -12,10 +12,10 @@
 
 
 ----
-[![Rodrigo's github stats](https://github-readme-stats.vercel.app/api?username=rodrigodosanjosoliveira&show=contribs&show_icons=true&count_private=true)](https://github.com/rodrigodosanjosoliveira/github-readme-stats)
+[![Rodrigo's github stats](https://github-readme-stats.vercel.app/api?username=rodrigodosanjosoliveira&show=contribs&show_icons=true&count_private=true&theme=dracula)](https://github.com/rodrigodosanjosoliveira/github-readme-stats)
 
 ----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodosanjosoliveira&layout=compact)](https://github.com/rodrigodosanjosoliveira/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodosanjosoliveira&theme=dracula)](https://github.com/rodrigodosanjosoliveira/github-readme-stats)
 
 
 ### Language and Tools:
