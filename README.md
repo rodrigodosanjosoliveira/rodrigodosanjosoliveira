@@ -6,11 +6,11 @@ Solid knowledge of design patterns, object-oriented modeling, Microservices arch
 Using several technologies: ASP.NET Core, ASP.NET MVC, WCF, C #, VB.NET, Azure AD, NodeJS, Express, Jest, Sequelize, Python, Flask, RabbitMQ, Redis, MongoDB, Angular, Apache Solr, Redis, and Spring. NET. Knowledge in databases PostgreSQL, DB2, SQL SERVER 2005/2008 and Oracle PL / SQL (maintenance and implementation of package, procedures, and functions), ORM NHibernate / Fluent and Entity Framework Core, AWS (DynamoDB, Lambda, Cloudwatch, Cloudformation, SNS, SQS and API Gateway), Docker, Docker Compose, Kubernetes, Rancher.
 
 ----
-[![](https://vistr.dev/badge?repo=rodrigodosanjosoliveira.rodrigodosanjosoliveira&corners=square)](https://github.com/rodrigodosanjosoliveira/vistr.dev)
+![](https://komarev.com/ghpvc/?username=rodrigodosanjosoliveira)
 [![wakatime](https://wakatime.com/badge/user/0a5ca1af-18a4-49f8-a87a-7989a8ee88f4.svg)](https://wakatime.com/@0a5ca1af-18a4-49f8-a87a-7989a8ee88f4)
 
 <!-- - 🔭 I’m currently working on [**Vórtx**](https://vortx.com.br/) -->
-- 🌱 I’m currently learning **Golang**
+- 🌱 I currently work with Golang
 - 💬 Ask me about @dotnet, @architecture
 - 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigodosanjosoliveira/)](https://www.linkedin.com/in/rodrigodosanjosoliveira/)
@@ -27,9 +27,10 @@ Using several technologies: ASP.NET Core, ASP.NET MVC, WCF, C #, VB.NET, Azure A
 ### Language and Tools:
 
 
-<code><img height="20" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/VSforMacIcon2019-2.svg" alt="Visual Studio for Mac"></code>
-<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR8j939O1D_T0vpNC61r6ndjVdx5PlAMdnkgQ&usqp=CAU"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="25" src="https://mlohrktvfr9b.i.optimole.com/scftOdE.tVDx~16b5e/w:500/h:500/q:mauto/https://www.nerdstickers.com.br/wp-content/uploads/2020/11/STK-167-Golang-5x7cm-1.jpg"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/154px-Apache_kafka.svg.png?20210416085520"></code>
 
 <!--
 **rodrigodosanjosoliveira/rodrigodosanjosoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
