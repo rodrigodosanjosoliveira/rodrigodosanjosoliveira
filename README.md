@@ -1,4 +1,4 @@
-### Hello World! I'm Rodrigo 👋
+# Hello World! I'm Rodrigo 👋
 
 Since 2005 working in the technology area, working in large consultancies and companies of the most varied sizes and segments (Fintechs, Insurance, Music Stream, Banks, Retail, E-commerce, Commercial Automation, etc.). 
 
@@ -24,7 +24,7 @@ Using several technologies: ASP.NET Core, ASP.NET MVC, WCF, C #, VB.NET, Azure A
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodosanjosoliveira)](https://github.com/rodrigodosanjosoliveira/github-readme-stats)
 
 
-### Language and Tools:
+## Language and Tools:
 
 
 <code><img height="25" src="https://mlohrktvfr9b.i.optimole.com/scftOdE.tVDx~16b5e/w:500/h:500/q:mauto/https://www.nerdstickers.com.br/wp-content/uploads/2020/11/STK-167-Golang-5x7cm-1.jpg"></code>
