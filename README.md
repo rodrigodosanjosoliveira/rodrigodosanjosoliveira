@@ -1,5 +1,3 @@
-# Hello World! I'm Rodrigo 👋
-
 Since 2005 working in the technology area, working in large consultancies and companies of the most varied sizes and segments (Fintechs, Insurance, Music Stream, Banks, Retail, E-commerce, Commercial Automation, etc.). 
 
 Solid knowledge of design patterns, object-oriented modeling, Microservices architecture.
