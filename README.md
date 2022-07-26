@@ -29,7 +29,7 @@ Using several technologies: ASP.NET Core, ASP.NET MVC, WCF, C #, VB.NET, Azure A
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/154px-Apache_kafka.svg.png?20210416085520"></code>
-
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg"></code>
 <!--
 **rodrigodosanjosoliveira/rodrigodosanjosoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
