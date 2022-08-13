@@ -18,7 +18,7 @@ Using several technologies: ASP.NET Core, ASP.NET MVC, WCF, C #, VB.NET, Azure A
 [![Rodrigo's github stats](https://github-readme-stats.vercel.app/api?username=rodrigodosanjosoliveira&show=contribs&show_icons=true&count_private=true&layout=compact)](https://github.com/rodrigodosanjosoliveira/rodrigodosannjosoliveira)
 
 ----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodosanjosoliveira&layout=compact)](https://github.com/rodrigodosanjosoliveira/rodrigodosannjosoliveira)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodosanjosoliveira&layout=compact&langs_count=3)](https://github.com/rodrigodosanjosoliveira/rodrigodosannjosoliveira)
 
 ----
 [![rodrigo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@0a5ca1af-18a4-49f8-a87a-7989a8ee88f4&layout=compact)](https://github.com/rodrigodosanjosoliveira/rodrigodosannjosoliveira)
