@@ -14,12 +14,14 @@ Using several technologies: ASP.NET Core, ASP.NET MVC, WCF, C #, VB.NET, Azure A
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigodosanjosoliveira/)](https://www.linkedin.com/in/rodrigodosanjosoliveira/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/orodrygw)](https://twitter.com/orodrygw)
 
+----
+[![Rodrigo's github stats](https://github-readme-stats.vercel.app/api?username=rodrigodosanjosoliveira&show=contribs&show_icons=true&count_private=true&layout=compact)](https://github.com/rodrigodosanjosoliveira/rodrigodosannjosoliveira)
 
 ----
-[![Rodrigo's github stats](https://github-readme-stats.vercel.app/api?username=rodrigodosanjosoliveira&show=contribs&show_icons=true&count_private=true)](https://github.com/rodrigodosanjosoliveira/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodosanjosoliveira&layout=compact)](https://github.com/rodrigodosanjosoliveira/rodrigodosannjosoliveira)
 
 ----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodosanjosoliveira)](https://github.com/rodrigodosanjosoliveira/github-readme-stats)
+[![rodrigo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@0a5ca1af-18a4-49f8-a87a-7989a8ee88f4&layout=compact)](https://github.com/rodrigodosanjosoliveira/rodrigodosannjosoliveira)
 
 
 ## Language and Tools:
