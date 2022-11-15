@@ -15,10 +15,10 @@ Using several technologies: ASP.NET Core, ASP.NET MVC, WCF, C #, VB.NET, Azure A
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/orodrygw)](https://twitter.com/orodrygw)
 
 ----
-[![Rodrigo's github stats](https://github-readme-stats.vercel.app/api?username=rodrigodosanjosoliveira&show=contribs&show_icons=true&count_private=true&theme=dracula)](https://github.com/rodrigodosanjosoliveira/rodrigodosanjosoliveira)
+[![Rodrigo's github stats](https://github-readme-stats.vercel.app/api?username=rodrigodosanjosoliveira&show=contribs&show_icons=true&count_private=true)](https://github.com/rodrigodosanjosoliveira/rodrigodosanjosoliveira)
 
 ----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodosanjosoliveira&theme=dracula&langs_count=3)](https://github.com/rodrigodosanjosoliveira/rodrigodosanjosoliveira)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodosanjosoliveira&langs_count=3)](https://github.com/rodrigodosanjosoliveira/rodrigodosanjosoliveira)
 
 ----
 [![rodrigo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@0a5ca1af-18a4-49f8-a87a-7989a8ee88f4&theme=dracula)](https://github.com/rodrigodosanjosoliveira/rodrigodosanjosoliveira)
