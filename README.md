@@ -1,6 +1,6 @@
 Since 2005 working in the technology area, working in large consultancies and companies of the most varied sizes and segments (Fintechs, Insurance, Music Stream, Banks, Retail, E-commerce, Commercial Automation, etc.). 
 
-Solid knowledge of design patterns, object-oriented modeling, Microservices architecture.
+<!--Solid knowledge of design patterns, object-oriented modeling, Microservices architecture.
 Using several technologies: ASP.NET Core, ASP.NET MVC, WCF, C #, VB.NET, Azure AD, NodeJS, Express, Jest, Sequelize, Python, Flask, RabbitMQ, Redis, MongoDB, Angular, Apache Solr, Redis, and Spring. NET. Knowledge in databases PostgreSQL, DB2, SQL SERVER 2005/2008 and Oracle PL / SQL (maintenance and implementation of package, procedures, and functions), ORM NHibernate / Fluent and Entity Framework Core, AWS (DynamoDB, Lambda, Cloudwatch, Cloudformation, SNS, SQS and API Gateway), Docker, Docker Compose, Kubernetes, Rancher.
 
 ----
@@ -14,7 +14,7 @@ Using several technologies: ASP.NET Core, ASP.NET MVC, WCF, C #, VB.NET, Azure A
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigodosanjosoliveira/)](https://www.linkedin.com/in/rodrigodosanjosoliveira/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/orodrygw)](https://twitter.com/orodrygw)
 
-----
+<!----
 [![Rodrigo's github stats](https://github-readme-stats.vercel.app/api?username=rodrigodosanjosoliveira&show=contribs&show_icons=true&count_private=true)](https://github.com/rodrigodosanjosoliveira/rodrigodosanjosoliveira)
 
 ----
