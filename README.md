@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Oliveira</h1>
 <h3 align="center">A backend developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigodosanjosoliveira&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigodosanjosoliveira" /> </p>
-
-<p align="left"> <a href="https://x.com/orodrygw" target="blank"><img src="https://img.shields.io/twitter/follow/orodrygw?logo=twitter&style=for-the-badge" alt="orodrygw" /></a> </p>
-
 - 🔭 I’m currently working on [G4 Educação](https://g4educacao.com/)
 
 - 🌱 I’m currently learning **Golang**
@@ -21,12 +17,14 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I completed Hacktoberfest](https://dev.to/rodrigodosanjosoliveira/i-completed-hacktoberfest-3jb3)
+- [Contribute and unlock your domain](https://dev.to/rodrigodosanjosoliveira/contribute-and-unlock-your-domain-3lng)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/rodrigodosanjosoliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rodrigodosanjosoliveira" height="30" width="40" /></a>
-<a href="https://twitter.com/orodrygw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="orodrygw" height="30" width="40" /></a>
+<a href="https://x.com/orodrygw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="orodrygw" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rodrigodosanjosoliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigodosanjosoliveira" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rodrigodosanjos1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rodrigodosanjos1" height="30" width="40" /></a>
 </p>
