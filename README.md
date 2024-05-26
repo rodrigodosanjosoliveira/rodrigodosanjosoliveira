@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/orodrygw" target="blank"><img src="https://img.shields.io/twitter/follow/orodrygw?logo=twitter&style=for-the-badge" alt="orodrygw" /></a> </p>
 
-- 🔭 I’m currently working on [Invillia](https://invillia.ai/accelerate-digital-product/)
+- 🔭 I’m currently working on [G4 Educação](https://g4educacao.com/)
 
 - 🌱 I’m currently learning **Golang**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/rodrigodosanjosoliveira](https://dev.to/rodrigodosanjosoliveira)
 
-- 💬 Ask me about **C#, .net**
+- 💬 Ask me about **Golang, C#, .net**
 
 - 📫 How to reach me **rodrigodosanjosoliveira@gmail.com**
 
