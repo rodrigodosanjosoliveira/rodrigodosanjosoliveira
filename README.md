@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigodosanjosoliveira&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigodosanjosoliveira" /> </p>
 
-<p align="left"> <a href="https://twitter.com/orodrygw" target="blank"><img src="https://img.shields.io/twitter/follow/orodrygw?logo=twitter&style=for-the-badge" alt="orodrygw" /></a> </p>
+<p align="left"> <a href="https://x.com/orodrygw" target="blank"><img src="https://img.shields.io/twitter/follow/orodrygw?logo=twitter&style=for-the-badge" alt="orodrygw" /></a> </p>
 
 - 🔭 I’m currently working on [G4 Educação](https://g4educacao.com/)
 
