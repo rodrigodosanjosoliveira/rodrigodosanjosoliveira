@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 👯 I’m looking to collaborate on [HerbJS](https://herbsjs.org/)
+- 👯 I’m looking to collaborate on [HerbJS](https://herbsjs.org/) and [FalaDev](https://github.com/dedevpradev/faladev)
 
 - 📝 I regularly write articles on [https://dev.to/rodrigodosanjosoliveira](https://dev.to/rodrigodosanjosoliveira)
 
