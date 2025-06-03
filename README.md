@@ -19,6 +19,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [I completed Hacktoberfest](https://dev.to/rodrigodosanjosoliveira/i-completed-hacktoberfest-3jb3)
 - [Contribute and unlock your domain](https://dev.to/rodrigodosanjosoliveira/contribute-and-unlock-your-domain-3lng)
+- [Go e APIs REST: Standard Library ou Frameworks?](https://www.linkedin.com/pulse/go-e-apis-rest-standard-library-ou-frameworks-rodrigo-oliveira-1oywf)
+- [O Vírus da fadiga decisória (DFV)](https://www.linkedin.com/posts/activity-7334981118275870720-L4id?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAEp2DYBkSB-Upl_JZhkivdcw-iHETTjxoY)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
