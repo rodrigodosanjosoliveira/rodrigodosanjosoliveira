@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Oliveira</h1>
 <h3 align="center">A backend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [G4 Educação](https://g4educacao.com/)
+<!-- - 🔭 I’m currently working on [G4 Educação](https://g4educacao.com/) -->
 
 - 🌱 I’m currently learning **Golang**
 
